@@ -1,6 +1,3 @@
-Name: Priya Sundaresan
-Part 1: Done
-Part 2: Done
 Changes - File names: Usys.S, syscall.h, syscall.c, sysproc.c, trap.c, traps.h, proc.h, proc.c, types.h, user.h, foo.c
 
 Explanation: 
